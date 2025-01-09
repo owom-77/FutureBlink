@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment files containing sensitive data (e.g., tokens, keys)
+.env
+
+# Logs
+*.log
+
+# Temporary files created by your editor/IDE
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+
+# Dependency directories for specific platforms (e.g., MacOS, Windows)
+npm-debug.log*
+yarn-error.log*
